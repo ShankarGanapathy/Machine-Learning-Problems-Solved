@@ -15,4 +15,4 @@ They've hired you on contract to help them figure it out!
 </ul>
 <br>
 I have only come up with a rookie Solution to above problem <br> sstatement. Any and all suggestions are welcome.
-<br>Thanks.<<br>
+<br>Thanks.<br>
