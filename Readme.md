@@ -14,5 +14,6 @@ They've hired you on contract to help them figure it out!
     </li>
 </ul>
 <br>
-I have only come up with a rookie Solution to above problem <br> sstatement. Any and all suggestions are welcome.
+I have only come up with a rookie Solution to above problem <br> statement.<br>
+###Any and all suggestions are welcome.
 <br>Thanks.<br>
